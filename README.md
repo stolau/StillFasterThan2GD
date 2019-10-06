@@ -4,8 +4,7 @@
  
 ## Also Playable at https://stolau.itch.io/faster-than-2gd 
  
-## Play as Robot and make dumb botdogs shoot crates until you find weapon.
-## Game ends when you have collected 5 of each augment. 
+## Play as Robot and make dumb botdogs shoot crates until you find weapon. Game ends when you have collected 5 of each augment. 
  
  ## Control:
  - Movement: WASD
