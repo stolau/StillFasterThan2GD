@@ -1,4 +1,4 @@
-﻿# StillFasterThan2GD
+﻿## StillFasterThan2GD
  
 ### Made for Ludum Dare 45 compo. https://ldjam.com/events/ludum-dare/45/still-faster-than-2gd 
  
